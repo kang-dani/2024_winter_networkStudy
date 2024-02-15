@@ -11,5 +11,5 @@
 <summary>
   HW#2
 </summary>
-   - 논블로킹 싱크 웹서버 : 
+   - 논블로킹 싱크 웹서버 : https://github.com/kang-dani/2024_winter_networkStudy/tree/main/linux
 </details>
