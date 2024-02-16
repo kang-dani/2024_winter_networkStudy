@@ -22,6 +22,7 @@ HW2-3.cpp를 linux에서 실행 후 http://ip주소:12342 으로 들어갔을 �
 
 4. http://dani-ubuntu:12342/hi
    -> html 파일을 읽어오는 형태
+<img width="893" alt="Screenshot 2024-02-16 at 11 59 56" src="https://github.com/kang-dani/2024_winter_networkStudy/assets/105360184/94d2868f-a205-4d2a-b87d-ee9ece0ee1b2">
 
 6. http://dani-ubuntu:12342/api
    -> 리스트 형태의 json 값을 직접 전달받아서 보여주는 형태
